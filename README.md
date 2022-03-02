@@ -1,2 +1,2 @@
 # Python Exercises
-- repository to share my Python Exercise results
+- repository to share my Python Exercise results with
